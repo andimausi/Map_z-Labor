@@ -109,7 +109,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/zl-outside.json#Treppe0"
+                 "value":".\/zl-outside.json#entry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -124,7 +124,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0

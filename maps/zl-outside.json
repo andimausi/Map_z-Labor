@@ -109,7 +109,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/zl-og.json"
+                 "value":".\/zl-og.json#entry"
                 }],
          "type":"tilelayer",
          "visible":true,

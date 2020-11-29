@@ -159,7 +159,7 @@
          "image":"..\/tiles\/tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
-         "margin":2,
+         "margin":1,
          "name":"milkian_1",
          "spacing":2,
          "tilecount":256,
@@ -752,7 +752,7 @@
          "image":"..\/tiles\/z-Labor-floor3434.png",
          "imageheight":272,
          "imagewidth":272,
-         "margin":0,
+         "margin":1,
          "name":"z-Labor-floor3434",
          "spacing":2,
          "tilecount":64,
@@ -770,8 +770,7 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#b3b3b3"
+         "tilewidth":32
         }, 
         {
          "columns":4,

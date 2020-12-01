@@ -94,7 +94,7 @@
                  "value":"test"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0

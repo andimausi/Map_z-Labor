@@ -127,7 +127,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/main.json#entryback"
+                 "value":".\/main.json#entryback_main"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -143,9 +143,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/main.json#entryfront"
+                 "value":".\/main.json#entryfront_main"
                 }],
          "type":"tilelayer",
          "visible":true,

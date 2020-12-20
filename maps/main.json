@@ -3,7 +3,7 @@
     {
      "chunksize":
         {
-         "height":16,
+         "height":32,
          "width":32
         },
      "export":
@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/main.json#entry_back"
+                 "value":".\/zl-og.json#entryT"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -1,4 +1,4 @@
-{ "compressionlevel":-1,
+{ "compressionlevel":0,
  "editorsettings":
     {
      "export":
@@ -277,7 +277,7 @@
  "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"2020.12.18",
  "tileheight":32,
  "tilesets":[
         {

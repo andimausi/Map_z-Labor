@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/zl-ug.json#entryfront"
+                 "value":".\/zl-ug.json#infront"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,7 +67,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/zl-ug.json#entryback"
+                 "value":".\/zl-ug.json#inback"
                 }],
          "type":"tilelayer",
          "visible":true,

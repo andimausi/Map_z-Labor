@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/zl-og.json#entryT"
+                 "value":".\/zl-og.json#entry_back"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/main.json#entry_street"
+                 "value":".\/zl-ug.json#entry_street"
                 }],
          "type":"tilelayer",
          "visible":true,

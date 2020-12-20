@@ -110,7 +110,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/main.json#entry_back"
+                 "value":".\/main.json#entry_street"
                 }],
          "type":"tilelayer",
          "visible":true,

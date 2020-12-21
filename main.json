@@ -50,7 +50,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/andimausi\/Map_z-Labor\/main\/zl-ug.json#entry_street"
+                 "value":".\/main\/zl-ug.json#entry_street"
                 }],
          "type":"tilelayer",
          "visible":true,

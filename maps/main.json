@@ -1,11 +1,6 @@
-{ "compressionlevel":0,
+{ "compressionlevel":-1,
  "editorsettings":
     {
-     "chunksize":
-        {
-         "height":32,
-         "width":32
-        },
      "export":
         {
          "format":"json",
@@ -35,9 +30,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":".\/zl-ug.json#entry_back"
+                 "value":"zl-ug.json#entry_back"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -53,9 +48,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":".\/zl-ug.json#entry_street"
+                 "value":"zl-ug.json#entry_street"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -282,7 +277,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2020.12.18",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {

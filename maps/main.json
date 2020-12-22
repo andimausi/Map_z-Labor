@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/zl-ug.json_entry-back"
+                 "value":".\/zl-ug.json#entry-back"
                 }],
          "type":"tilelayer",
          "visible":true,

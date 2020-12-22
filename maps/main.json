@@ -1,6 +1,11 @@
-{ "compressionlevel":-1,
+{ "compressionlevel":0,
  "editorsettings":
     {
+     "chunksize":
+        {
+         "height":32,
+         "width":32
+        },
      "export":
         {
          "format":"json",
@@ -30,7 +35,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"zl-ug.json#entry_back"
                 }],
@@ -48,7 +53,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"zl-ug.json#entry_street"
                 }],

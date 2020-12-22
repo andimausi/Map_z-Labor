@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"zl-ug.json#entry_back"
+                 "value":"raw.githubusercontent.com\/andimausi\/Map_z-Labor\/main\/maps\/zl-ug.json_entry_back"
                 }],
          "type":"tilelayer",
          "visible":true,

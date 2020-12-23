@@ -50,7 +50,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/zl-ug.json#entry_street"
+                 "value":".\/zwischen.json#entry_street_main"
                 }],
          "type":"tilelayer",
          "visible":true,

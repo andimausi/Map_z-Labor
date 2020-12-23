@@ -128,7 +128,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/zwischen.json#entry_street_ug"
+                 "value":".\/main.json#entry_street"
                 }],
          "type":"tilelayer",
          "visible":true,
